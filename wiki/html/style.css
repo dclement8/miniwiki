@@ -1,0 +1,15 @@
+header {
+	background: lightblue;
+}
+
+nav#menu {
+	float : left;
+	background: lightblue;
+}
+
+article {
+	float : left;
+	background: lightblue;
+	margin-left: 10%;
+	width: 70%;
+}
